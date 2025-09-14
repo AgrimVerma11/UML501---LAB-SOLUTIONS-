@@ -1,0 +1,646 @@
+City,Temperature,Condition
+Accra,79 °F,
+Addis Ababa,66 °F,
+Adelaide,66 °F,
+Algiers,79 °F,
+Almaty,72 °F,
+Amman,91 °F,
+Amsterdam *,64 °F,
+Anadyr,44 °F,
+Anchorage *,47 °F,
+Ankara,79 °F,
+Antananarivo,79 °F,
+Asuncion,77 °F,
+Athens *,85 °F,
+Atlanta *,59 °F,
+Auckland,55 °F,
+Baghdad,104 °F,
+Bangkok,81 °F,
+Barcelona *,79 °F,
+Beijing,87 °F,
+Beirut *,86 °F,
+Belgrade *,74 °F,
+Bengaluru,82 °F,
+Berlin *,64 °F,
+Bogota,45 °F,
+Boston *,60 °F,
+Brasilia,72 °F,
+Brisbane,62 °F,
+Brussels *,64 °F,
+Bucharest *,79 °F,
+Budapest *,66 °F,
+Buenos Aires,61 °F,
+Cairo *,93 °F,
+Calgary *,52 °F,
+Canberra,50 °F,
+Cape Town,70 °F,
+Caracas,79 °F,
+Casablanca *,81 °F,
+Chicago *,68 °F,
+Copenhagen *,63 °F,
+Dallas *,76 °F,
+Dar es Salaam,88 °F,
+Darwin,79 °F,
+Denver *,55 °F,
+Detroit *,56 °F,
+Dhaka,80 °F,
+Doha,97 °F,
+Dubai,99 °F,
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Accra,79 °F,Mostly cloudy. Warm.
+Addis Ababa,66 °F,Partly sunny. Mild.
+Adelaide,66 °F,Refreshingly cool.
+Algiers,79 °F,Scattered clouds. Warm.
+Almaty,72 °F,Scattered clouds. Mild.
+Amman,91 °F,Clear. Hot.
+Amsterdam *,64 °F,Passing clouds. Mild.
+Anadyr,44 °F,Passing clouds. Quite cool.
+Anchorage *,47 °F,Light rain. Mostly cloudy. Cool.
+Ankara,79 °F,Passing clouds. Pleasantly warm.
+Antananarivo,79 °F,Passing clouds. Pleasantly warm.
+Asuncion,77 °F,Scattered clouds. Warm.
+Athens *,85 °F,Pleasantly warm.
+Atlanta *,59 °F,Clear. Cool.
+Auckland,55 °F,Passing clouds. Cool.
+Baghdad,104 °F,Sunny. Extremely hot.
+Bangkok,81 °F,Light rain. Passing clouds. Warm.
+Barcelona *,79 °F,Scattered clouds. Warm.
+Beijing,87 °F,Sunny. Pleasantly warm.
+Beirut *,86 °F,Scattered clouds. Warm.
+Belgrade *,74 °F,Overcast. Mild.
+Bengaluru,82 °F,Scattered clouds. Warm.
+Berlin *,64 °F,Scattered clouds. Mild.
+Bogota,45 °F,Partly sunny. Quite cool.
+Boston *,60 °F,Scattered clouds. Cool.
+Brasilia,72 °F,Sunny. Mild.
+Brisbane,62 °F,Cool.
+Brussels *,64 °F,Scattered clouds. Mild.
+Bucharest *,79 °F,Passing clouds. Pleasantly warm.
+Budapest *,66 °F,Scattered showers. Mostly cloudy. Mild.
+Buenos Aires,61 °F,Sunny. Cool.
+Cairo *,93 °F,Sunny. Extremely hot.
+Calgary *,52 °F,Passing clouds. Cool.
+Canberra,50 °F,Clear. Cool.
+Cape Town,70 °F,Passing clouds. Mild.
+Caracas,79 °F,Scattered clouds. Warm.
+Casablanca *,81 °F,Clear. Warm.
+Chicago *,68 °F,Clear. Mild.
+Copenhagen *,63 °F,Partly sunny. Mild.
+Dallas *,76 °F,Passing clouds. Mild.
+Dar es Salaam,88 °F,Scattered clouds. Warm.
+Darwin,79 °F,Clear. Warm.
+Denver *,55 °F,Partly cloudy. Cool.
+Detroit *,56 °F,Fog. Cool.
+Dhaka,80 °F,Light rain. Low clouds. Warm.
+Doha,97 °F,Passing clouds. Extremely hot.
+Dubai,99 °F,Sunny. Extremely hot.
